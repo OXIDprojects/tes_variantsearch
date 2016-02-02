@@ -12,6 +12,6 @@ $aModule = array(
     'url'          => 'http://www.te-solutions.de',
     'email'        => 'f.kaufmann@te-solutions.de',
     'extend'       => array(
-    	'oxSearch'	=> 'tes_variantsearch/models/tes_variantsearch_oxsearch',
+    	'oxSearch'	=> 'tes/tes_variantsearch/models/tes_variantsearch_oxsearch',
     ),
 );
